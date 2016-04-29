@@ -1,0 +1,23 @@
+{
+  "name": "uw-log",
+  "version": "0.0.1",
+  "description": "uwheel-log source code and builder",
+  "main": "index.js",
+  "author": "Matias Gonzlez",
+  "license": "ISC",
+  "main": "LOG.js",
+  "dependencies": {
+    "winston": "^2.2.0"
+  },
+  "config": {
+    "buildDir": "dist/"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "load-grunt-config": "^0.19.1",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
