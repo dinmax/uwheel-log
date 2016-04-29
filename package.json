@@ -1,14 +1,13 @@
 {
   "name": "uw-log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "log module for uwheel tools",
-  "main": "index.js",
+  "main": "LOG.js",
   "author": "Matias Gonzlez",
   "license": "MIT",
-  "main": "LOG.js",
-  "repository" :
-  { "type" : "git",
-    "url" : "https://github.com/dinmax/uwheel-log.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinmax/uwheel-log.git"
   },
   "dependencies": {
     "winston": "^2.2.0"
