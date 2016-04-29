@@ -4,7 +4,7 @@
   "description": "log module for uwheel tools",
   "main": "index.js",
   "author": "Matias Gonzlez",
-  "license": "ISC",
+  "license": "MIT",
   "main": "LOG.js",
   "repository" :
   { "type" : "git",
