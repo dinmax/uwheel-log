@@ -11,7 +11,12 @@ npm install uw-log --save
 ```
 
 ## Examples
-````javascript
+~~~javascript
 var LOG=  require('Log').newInstance('TEST');
 LOG.info('LOG INFO', 'This is a log');
-````
+~~~
+
+~~~python
+var LOG=  require('Log').newInstance('TEST');
+LOG.info('LOG INFO', 'This is a log');
+~~~
