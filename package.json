@@ -1,8 +1,8 @@
 {
   "name": "uw-log",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "log module for uwheel tools",
-  "main": "LOG.js",
+  "main": "log.js",
   "author": "Matias Gonzlez",
   "license": "MIT",
   "repository": {
